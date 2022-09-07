@@ -2,3 +2,5 @@
 
 
 414. Third Maximum Number  --leetcode(414)
+
+1909. Remove One Element to Make the Array Strictly Increasing --leetcode(1909)
