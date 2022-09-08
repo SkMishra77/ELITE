@@ -16,7 +16,7 @@ class Solution:
             else:
                 d[i%60]+=1
         # print(d)
-        for i in d.keys():
+        for i in d.keys():m``
             if(i!=30 and i!=0):
                 try:
                     ans+=d[i]*d[60-i]
@@ -24,7 +24,7 @@ class Solution:
                     pass
         ans/=2
         ans=int(ans)
-        
+        # they are the edge case to handle them with linear time we can use exception handle
         try:
             ans+=pairs(d[0])
         except:
