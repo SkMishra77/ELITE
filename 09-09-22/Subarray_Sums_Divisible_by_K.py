@@ -24,4 +24,4 @@ class Solution:
                 
         return int(ans)
         
-        
+#this combination is a outcome of others 2 ques in same directory.
