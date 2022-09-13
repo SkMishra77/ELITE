@@ -1,0 +1,3 @@
+217. Contains Duplicate --leetocode
+219. Contains Duplicate II --leetocode
+Absolute Permutation --Hackerrank
