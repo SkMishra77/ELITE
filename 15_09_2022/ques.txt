@@ -1,0 +1,2 @@
+1370. Increasing Decreasing String
+1684. Count the Number of Consistent Strings
