@@ -1,0 +1,5 @@
+Sum vs XOR  --hackerrank
+Palindrome Index  --hackerrank
+1512. Number of Good Pairs  --leetcode
+238. Product of Array Except Self  --leetcode
+268. Missing Number  --leetcode
