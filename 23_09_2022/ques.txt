@@ -1,0 +1,4 @@
+205. Isomorphic Strings
+2391. Minimum Amount of Time to Collect Garbage
+Summing the N series
+Is Fibo
